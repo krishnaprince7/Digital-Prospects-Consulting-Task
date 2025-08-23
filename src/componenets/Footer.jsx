@@ -28,16 +28,16 @@ const Footer = () => {
             </p>
 
             <div className="mt-5 flex items-center gap-4">
-              <a href="#" aria-label="Facebook" className="inline-flex h-10 w-10 items-center justify-center rounded-full bg-white hover:bg-white/15 transition">
+              <a href="" aria-label="Facebook" className="inline-flex h-10 w-10 items-center justify-center rounded-full bg-white hover:bg-white/15 transition">
                 <FaFacebookF className="text-emerald-400" />
               </a>
-              <a href="#" aria-label="Twitter" className="inline-flex h-10 w-10 items-center justify-center rounded-full bg-white hover:bg-white/15 transition">
+              <a href="" aria-label="Twitter" className="inline-flex h-10 w-10 items-center justify-center rounded-full bg-white hover:bg-white/15 transition">
                 <FaTwitter className="text-emerald-400" />
               </a>
-              <a href="#" aria-label="LinkedIn" className="inline-flex h-10 w-10 items-center justify-center rounded-full bg-white hover:bg-white/15 transition">
+              <a href="" aria-label="LinkedIn" className="inline-flex h-10 w-10 items-center justify-center rounded-full bg-white hover:bg-white/15 transition">
                 <FaLinkedinIn className="text-emerald-400" />
               </a>
-              <a href="#" aria-label="YouTube" className="inline-flex h-10 w-10 items-center justify-center rounded-full bg-white hover:bg-white/15 transition">
+              <a href="" aria-label="YouTube" className="inline-flex h-10 w-10 items-center justify-center rounded-full bg-white hover:bg-white/15 transition">
                 <FaYoutube className="text-emerald-400" />
               </a>
             </div>
@@ -47,12 +47,12 @@ const Footer = () => {
           <div>
             <h4 className="text-xl font-semibold">Quick Links</h4>
             <ul className="mt-5 space-y-3 text-gray-300">
-              <li><a href="#" className="hover:text-white transition">Software Team</a></li>
-              <li><a href="#" className="hover:text-white transition">Technologies</a></li>
-              <li><a href="#" className="hover:text-white transition">Resources</a></li>
-              <li><a href="#" className="hover:text-white transition">Company</a></li>
-              <li><a href="#" className="hover:text-white transition">Contact us</a></li>
-              <li><a href="#" className="hover:text-white transition">FAQ</a></li>
+              <li><a href="" className="hover:text-white transition">Software Team</a></li>
+              <li><a href="" className="hover:text-white transition">Technologies</a></li>
+              <li><a href="" className="hover:text-white transition">Resources</a></li>
+              <li><a href="" className="hover:text-white transition">Company</a></li>
+              <li><a href="" className="hover:text-white transition">Contact us</a></li>
+              <li><a href="" className="hover:text-white transition">FAQ</a></li>
             </ul>
           </div>
 
@@ -60,10 +60,10 @@ const Footer = () => {
           <div>
             <h4 className="text-xl font-semibold sm:ml-4">Services</h4>
             <ul className="mt-5 space-y-3 text-gray-300">
-              <li><a href="#" className="hover:text-white transition">Dedicated Development</a></li>
-              <li><a href="#" className="hover:text-white transition">Staff Augmentation Services</a></li>
-              <li><a href="#" className="hover:text-white transition">Software Development</a></li>
-              <li><a href="#" className="hover:text-white transition">Development Center</a></li>
+              <li><a href="" className="hover:text-white transition">Dedicated Development</a></li>
+              <li><a href="" className="hover:text-white transition">Staff Augmentation Services</a></li>
+              <li><a href="" className="hover:text-white transition">Software Development</a></li>
+              <li><a href="" className="hover:text-white transition">Development Center</a></li>
             </ul>
           </div>
 
