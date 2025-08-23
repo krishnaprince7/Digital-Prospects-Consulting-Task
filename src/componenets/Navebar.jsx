@@ -68,27 +68,27 @@
           }
         >
           <li className='py-6 text-4xl'>
-              <Link className='relative top-2'   to="home" spy={true}  smooth={true} offset={0} duration={1200}>Software Team</Link>
+              <Link className='relative top-2' to="ourclient" spy={true}spy={true}  smooth={true} offset={0} duration={1200}>Software Team</Link>
           </li>
           <li className='py-6 text-4xl'>
             {' '}
-                <Link className='relative top-2'  to="about" spy={true}  smooth={true} offset={0} duration={1200}>Services</Link>
+                <Link className='relative top-2'   to="services" spy={true}  smooth={true} offset={0} duration={1200}>Services</Link>
           </li>
           <li className='py-6 text-4xl'>
             {' '}
-          <Link className='relative top-2'  to="skils" spy={true}  smooth={true} offset={-70} duration={1200}>Technologies</Link>
+          <Link className='relative top-2'  to="technolohy" spy={true}  smooth={true} offset={-70} duration={1200}>Technologies</Link>
           </li>
           <li className='py-6 text-4xl'>
             {' '}
-               <Link className='relative top-2'  to="project" spy={true}  smooth={true} offset={-150} duration={1200}>Resources</Link>
+               <Link className='relative top-2'  to="resources" spy={true}  smooth={true} offset={-150} duration={1200}>Resources</Link>
           </li>
           <li className='py-6 text-4xl'>
             {' '}
-                <Link className='relative top-2'  to="contact" spy={true}  smooth={true} offset={-90} duration={1200}>Company</Link>
+                <Link className='relative top-2'  to="company" spy={true}  smooth={true} offset={-90} duration={1200}>Company</Link>
           </li>
           <li className='py-6 text-4xl'>
             {' '}
-                     <Link className=''   to="contact" spy={true}  smooth={true} offset={-90} duration={1200}>Get in Touch</Link>
+                     <Link className=''  to="getinTouch" spy={true}  smooth={true} offset={-90} duration={1200}>Get in Touch</Link>
 
 
           </li>
