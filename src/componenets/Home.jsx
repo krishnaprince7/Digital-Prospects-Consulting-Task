@@ -32,7 +32,7 @@ const Home = () => {
 
 
           <div className="flex flex-col sm:flex-row gap-3 sm:gap-4">
-            <button className="flex items-center justify-center gap-2 bg-[#fd7e80] text-white px-5 sm:px-6 py-3 rounded-md hover:bg-[#ff4651] font-bold transition duration-200">
+            <button className="flex items-center justify-center sm:mb-auto mb-2 gap-2 bg-[#fd7e80] text-white px-5 sm:px-6 py-3 rounded-md hover:bg-[#ff4651] font-bold transition duration-200">
               View More <MdOutlineArrowOutward />
             </button>
             <button className="flex items-center justify-center gap-2 border-2 border-green-500 text-green-600 px-5 sm:px-6 py-3 rounded-md hover:bg-green-50 font-bold transition duration-200">
