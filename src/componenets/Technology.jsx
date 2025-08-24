@@ -50,19 +50,20 @@ const Technology = () => {
 
       <div className="mt-5 text-sm sm:text-[15px] text-gray-600 leading-7">
        <div className="flex flex-wrap gap-3">
-        <span>.NET</span>
-        <span>C/C++</span>
-        <span>DJANGO</span>
-        <span>Firebase</span>
-        <span>GOLANG</span>
-        <span>SYMFONY</span>
-        <span>LARAVEL</span>
-        <span>NODE</span>
-        <span>PHP</span>
-        <span>PYTHON</span>
-        <span>RUBY ON RAILS</span>
-        <span>JAVA</span>
-      </div>
+  <span className="px-3 py-1 bg-gray-200 rounded-md">.NET</span>
+  <span className="px-3 py-1 bg-gray-200 rounded-md">C/C++</span>
+  <span className="px-3 py-1 bg-gray-200 rounded-md">DJANGO</span>
+  <span className="px-3 py-1 bg-gray-200 rounded-md">Firebase</span>
+  <span className="px-3 py-1 bg-gray-200 rounded-md">GOLANG</span>
+  <span className="px-3 py-1 bg-gray-200 rounded-md">SYMFONY</span>
+  <span className="px-3 py-1 bg-gray-200 rounded-md">LARAVEL</span>
+  <span className="px-3 py-1 bg-gray-200 rounded-md">NODE</span>
+  <span className="px-3 py-1 bg-gray-200 rounded-md">PHP</span>
+  <span className="px-3 py-1 bg-gray-200 rounded-md">PYTHON</span>
+  <span className="px-3 py-1 bg-gray-200 rounded-md">RUBY ON RAILS</span>
+  <span className="px-3 py-1 bg-gray-200 rounded-md">JAVA</span>
+</div>
+
 
       </div>
     </div>
