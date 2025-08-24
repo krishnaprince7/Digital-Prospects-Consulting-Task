@@ -50,19 +50,21 @@ const Technology = () => {
 
       <div className="mt-5 text-sm sm:text-[15px] text-gray-600 leading-7">
        <div className="flex flex-wrap gap-3">
-        <span className="px-3 py-1 bg-gray-200 rounded-md">.NET</span>
-        <span className="px-3 py-1 bg-gray-200 rounded-md">C/C++</span>
-        <span className="px-3 py-1 bg-gray-200 rounded-md">DJANGO</span>
-        <span className="px-3 py-1 bg-gray-200 rounded-md">Firebase</span>
-        <span className="px-3 py-1 bg-gray-200 rounded-md">GOLANG</span>
-        <span className="px-3 py-1 bg-gray-200 rounded-md">SYMFONY</span>
-        <span className="px-3 py-1 bg-gray-200 rounded-md">LARAVEL</span>
-        <span className="px-3 py-1 bg-gray-200 rounded-md">NODE</span>
-        <span className="px-3 py-1 bg-gray-200 rounded-md">PHP</span>
-        <span className="px-3 py-1 bg-gray-200 rounded-md">PYTHON</span>
-        <span className="px-3 py-1 bg-gray-200 rounded-md">RUBY ON RAILS</span>
-        <span className="px-3 py-1 bg-gray-200 rounded-md">JAVA</span>
+       <div className="flex flex-wrap gap-3">
+        <span className="block">.NET</span>
+        <span className="block">C/C++</span>
+        <span className="block">DJANGO</span>
+        <span className="block">Firebase</span>
+        <span className="block">GOLANG</span>
+        <span className="block">SYMFONY</span>
+        <span className="block">LARAVEL</span>
+        <span className="block">NODE</span>
+        <span className="block">PHP</span>
+        <span className="block">PYTHON</span>
+        <span className="block">RUBY ON RAILS</span>
+        <span className="block">JAVA</span>
       </div>
+
 
 
       </div>
