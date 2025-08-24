@@ -50,18 +50,18 @@ const Technology = () => {
 
       <div className="mt-5 text-sm sm:text-[15px] text-gray-600 leading-7">
       <div className="flex flex-wrap gap-3">
-        <span className="inline-block">.NET</span>
-        <span className="inline-block">C/C++</span>
-        <span className="inline-block">DJANGO</span>
-        <span className="inline-block">Firebase</span>
-        <span className="inline-block">GOLANG</span>
-        <span className="inline-block">SYMFONY</span>
-        <span className="inline-block">LARAVEL</span>
-        <span className="inline-block">NODE</span>
-        <span className="inline-block">PHP</span>
-        <span className="inline-block">PYTHON</span>
-        <span className="inline-block">RUBY ON RAILS</span>
-        <span className="inline-block">JAVA</span>
+        <span className="inline-block sm:mr-auto mr-2">.NET</span>
+        <span className="inline-block sm:mr-auto mr-2">C/C++</span>
+        <span className="inline-block sm:mr-auto mr-2">DJANGO</span>
+        <span className="inline-block sm:mr-auto mr-2">Firebase</span>
+        <span className="inline-block sm:mr-auto mr-2">GOLANG</span>
+        <span className="inline-block sm:mr-auto mr-2">SYMFONY</span>
+        <span className="inline-block sm:mr-auto mr-2">LARAVEL</span>
+        <span className="inline-block sm:mr-auto mr-2">NODE</span>
+        <span className="inline-block sm:mr-auto mr-2">PHP</span>
+        <span className="inline-block sm:mr-auto mr-2">PYTHON</span>
+        <span className="inline-block sm:mr-auto mr-2">RUBY ON RAILS</span>
+        <span className="inline-block sm:mr-auto mr-2">JAVA</span>
       </div>
 
 
