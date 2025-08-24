@@ -49,20 +49,21 @@ const Technology = () => {
       <h3 className="mt-5 text-xl sm:text-2xl font-semibold">{card.title}</h3>
 
       <div className="mt-5 text-sm sm:text-[15px] text-gray-600 leading-7">
-       <div className="flex flex-wrap gap-3">
-        <span className="block">.NET</span>
-        <span className="block">C/C++</span>
-        <span className="block">DJANGO</span>
-        <span className="block">Firebase</span>
-        <span className="block">GOLANG</span>
-        <span className="block">SYMFONY</span>
-        <span className="block">LARAVEL</span>
-        <span className="block">NODE</span>
-        <span className="block">PHP</span>
-        <span className="block">PYTHON</span>
-        <span className="block">RUBY ON RAILS</span>
-        <span className="block">JAVA</span>
+      <div className="flex flex-wrap gap-3">
+        <span className="inline-block">.NET</span>
+        <span className="inline-block">C/C++</span>
+        <span className="inline-block">DJANGO</span>
+        <span className="inline-block">Firebase</span>
+        <span className="inline-block">GOLANG</span>
+        <span className="inline-block">SYMFONY</span>
+        <span className="inline-block">LARAVEL</span>
+        <span className="inline-block">NODE</span>
+        <span className="inline-block">PHP</span>
+        <span className="inline-block">PYTHON</span>
+        <span className="inline-block">RUBY ON RAILS</span>
+        <span className="inline-block">JAVA</span>
       </div>
+
 
 
 
