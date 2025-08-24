@@ -50,7 +50,6 @@ const Technology = () => {
 
       <div className="mt-5 text-sm sm:text-[15px] text-gray-600 leading-7">
        <div className="flex flex-wrap gap-3">
-       <div className="flex flex-wrap gap-3">
         <span className="block">.NET</span>
         <span className="block">C/C++</span>
         <span className="block">DJANGO</span>
